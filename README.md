@@ -1,6 +1,4 @@
-# meetups-slc-group
-
-AngularJS SLC Group - Meetup topics, suggestions, and speaker signups! http://www.meetup.com/AngularJS-Utah/
+# AngularJS SLC Group - Meetup topics, suggestions, and speaker signups! http://www.meetup.com/AngularJS-Utah/
 
 Our compatriots to the south have had a lot of success with using a repo to track Meetup ideas and volunteers, so we've decided to try it out as well!
 
